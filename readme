@@ -1,1 +1,15 @@
-sss
+大学3年生の時に開発を行った環境センサについてのまとめです。
+
+概要
+2025年夏にISSでの実験を予定している環境センサーのプロトタイプを開発しました。
+ISS内では常に空気の対流が促されていますが、特定のエリアでは十分な空気循環が確保されていない可能性があります。その結果、一部のエリアでは二酸化炭素やその他のガスの濃度が高くなり、宇宙飛行士の健康状態に影響を与えることが懸念されます。
+そこで、本研究では、温湿度、気圧、ガス濃度の値を取得し、健康被害が生じる可能性のある値に達した場合にアラートを発生させるシステムの構築に取り組みました。
+We have developed a prototype environmental sensor that is scheduled for testing on the ISS in the summer of 2025.
+Although air convection is actively maintained on the ISS, certain areas may experience insufficient air circulation. As a result, elevated concentrations of carbon dioxide and other gases in some areas could pose health risks to astronauts.
+To address this issue, this research focuses on developing a system that monitors temperature, humidity, air pressure, and gas concentrations, and issues an alert when these values reach levels that may be hazardous to health.
+
+>code
+使用したソースコードです。
+
+>report
+最終レポートです。
